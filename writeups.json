@@ -114,6 +114,17 @@
 		"authors": [
 			"Card"
 		]
+	},
+	{
+		"id": "BabyRev",
+		"title": "[BitsCTF 2024] BabyRev",
+		"date": "2024-02-16",
+		"tags": [
+			"Rev"
+		],
+		"authors": [
+			"Ridini", "Card"
+		]
 	}
 
 ]
